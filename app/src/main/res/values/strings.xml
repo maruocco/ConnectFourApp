@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Connect Four</string>
+    <string name="welcome_text">Welcome to connect four! \n\nPress on a column to place your piece. \nWin by getting four pieces in a row. \nLoose if the CP does first. \nYou are blue, CP is red. \n\nEnter a name and press play to begin.</string>
+    <string name="play">Play</string>
+    <string name="enter_name">Player Name:</string>
+    <string name="status">Status:</string>
+    <string name="player_turn">Player turn</string>
+    <string name="cp_turn">Computer turn</string>
+    <string name="player_win">You Win!</string>
+    <string name="tie">It\'s a tie.</string>
+    <string name="cp_win">You Lost.</string>
+    <string name="player_label">Player:</string>
+    <string name="restart">Restart</string>
+</resources>
